@@ -1,3 +1,6 @@
 # DBMS-Project
 
-Concept Used: ER Diagram, PostgreySQL, Normalization.
++ Concept Used
+  - ER Diagram
+  - PostgreySQL
+  - Normalization.
